@@ -19,8 +19,6 @@ I co-designed the architecture and built the software and simulation environment
 
 ## Selected Graduate Work
 
-- [Language models](https://github.com/chenjiang0819/dartmouth-language-models) — Dartmouth ENGS108 n-grams and pretrained GPT-2 fine tuning; lightweight synthetic verification is separate from historical training.
-- [Computer vision](https://github.com/chenjiang0819/dartmouth-computer-vision) — Dartmouth ENGS108 SVM, student CNNs and Xception transfer learning, with explicit scaffold/model attribution.
 - [Image to music](https://github.com/chenjiang0819/dartmouth-image-to-music) — Dartmouth ENGS111 artistic MATLAB image/signal-processing experiment, verified in Octave.
 - [Reinforcement learning](https://github.com/chenjiang0819/dartmouth-reinforcement-learning) — Dartmouth ENGS108 Assignment 5, handwritten tabular Q-learning.
 
