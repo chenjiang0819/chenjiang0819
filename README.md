@@ -22,16 +22,18 @@ Chen co-designed the architecture and developed the software and simulation envi
 
 ### Graduate work — Dartmouth
 
-- [Image to Music](https://github.com/chenjiang0819/dartmouth-image-to-music) — MATLAB image processing and music generation.
-- [Language Models](https://github.com/chenjiang0819/dartmouth-language-models) — NLP, n-gram models and language-model workflows.
+- [Language Models](https://github.com/chenjiang0819/dartmouth-language-models) — n-gram text generation and GPT-2 fine-tuning workflows.
 - [Computer Vision](https://github.com/chenjiang0819/dartmouth-computer-vision) — classification, CNNs and transfer learning.
-- [Reinforcement Learning](https://github.com/chenjiang0819/dartmouth-reinforcement-learning) — tabular Q-learning and model evaluation.
+- [Reinforcement Learning](https://github.com/chenjiang0819/dartmouth-reinforcement-learning) — Q-learning, epsilon-greedy exploration and reward-based policy learning.
+- [Image to Music](https://github.com/chenjiang0819/dartmouth-image-to-music) — MATLAB image processing and music generation.
 
-### Undergraduate work — Melbourne and Adelaide
+### Undergraduate work — Melbourne
 
-- [Ray Tracer](https://github.com/chenjiang0819/unimelb-ray-tracer) — C# geometry, lighting and rendering.
-- [DNS Server](https://github.com/chenjiang0819/unimelb-dns-server) — C systems and networking.
-- [KD-tree Spatial Search](https://github.com/chenjiang0819/unimelb-kdtree-spatial-search) — nearest-neighbour search and spatial algorithms.
 - [Food Ordering App](https://github.com/chenjiang0819/unimelb-food-ordering-app) — team full-stack web application.
+- [Connected CRM](https://github.com/chenjiang0819/unimelb-crm-team-project) — Product Owner, UI/UX design and development for a team React/Node.js application.
+- [DNS Server](https://github.com/chenjiang0819/unimelb-dns-server) — C systems and networking.
+- [Ray Tracer](https://github.com/chenjiang0819/unimelb-ray-tracer) — C# geometry, lighting and rendering.
+- [Peg Solitaire Search Solver](https://github.com/chenjiang0819/unimelb-peg-solitaire-search) — C graph search, state deduplication and solution reconstruction.
+- [KD-tree Spatial Search](https://github.com/chenjiang0819/unimelb-kdtree-spatial-search) — nearest-neighbour search and spatial algorithms.
 
 [LinkedIn](https://www.linkedin.com/in/chenjiangprofile)
