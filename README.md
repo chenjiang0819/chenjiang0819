@@ -29,7 +29,6 @@ Chen co-designed the architecture and developed the software and simulation envi
 
 ### Undergraduate work — Melbourne
 
-- [Food Ordering App](https://github.com/chenjiang0819/unimelb-food-ordering-app) — team full-stack web application.
 - [Connected CRM](https://github.com/chenjiang0819/unimelb-crm-team-project) — Product Owner, UI/UX design and development for a team React/Node.js application.
 - [DNS Server](https://github.com/chenjiang0819/unimelb-dns-server) — C systems and networking.
 - [Ray Tracer](https://github.com/chenjiang0819/unimelb-ray-tracer) — C# geometry, lighting and rendering.
